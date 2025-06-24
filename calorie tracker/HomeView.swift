@@ -2,7 +2,7 @@
 //  HomeView.swift
 //  calorie tracker
 //
-//  Created by Chris'💻 on 2025/2/7.
+// 
 //
 
 import SwiftUI
