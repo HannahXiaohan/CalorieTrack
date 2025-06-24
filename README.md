@@ -2,8 +2,6 @@
 
 CalorieTrack: AI-Powered Calorie Tracking App
 
-Fit Tech Innovators
-
 # Project Vision:
 Promoting a healthy diet has become a popular topic in our society. The sociologist and government are encouraging people from different age groups to eat well, while maintaining the good calories for the body. Therefore, I want to develop an IOS application that has the automated functionalities to predict the food images, calculate the calorie consumption, and provide excellent diet advice.
 
