@@ -2,7 +2,7 @@
 //  ProfileView.swift
 //  Calorie Tracker
 //
-//  Created by Tao Jin on 2/26/25.
+//  
 //
 
 import SwiftUI
