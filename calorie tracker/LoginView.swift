@@ -2,7 +2,7 @@
 //  RegisterView.swift
 //  calorie tracker
 //
-//  Created by Tao Jin on 2/17/25.
+//  
 //
 
 import SwiftUI
