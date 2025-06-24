@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "5BFEA96B-4C0B-4896-A02A-4403AEE80699": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "FoodClassifier.mlmodel",
+            "path": "com.apple.CoreML/FoodClassifier.mlmodel"
+        },
+        "CBA4BE62-FD22-4C10-AD5F-F9772410923E": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "F5EFBCE1-893F-48F5-A391-90C74C753CCA": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        }
+    },
+    "rootModelIdentifier": "5BFEA96B-4C0B-4896-A02A-4403AEE80699"
+}
