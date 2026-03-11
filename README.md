@@ -9,7 +9,7 @@ Login page
 
 Profile page
 
-<img width="250" height="491" alt="image" src="https://github.com/user-attachments/assets/91fe64f3-6146-40a3-a5be-1bf487243bdc" />
+<img width="240" height="485" alt="image" src="https://github.com/user-attachments/assets/8cda886c-63c0-4f30-8c54-572451304b46" />
 
 Camera page
 
