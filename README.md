@@ -13,7 +13,7 @@ Profile page
 
 Camera page
 
-<img width="245" height="488" alt="image" src="https://github.com/user-attachments/assets/62eef3d7-3f2f-4abb-b602-484f62180c64" />
+<img width="240" height="482" alt="image" src="https://github.com/user-attachments/assets/18d1d224-c266-451d-ba1f-1ec088f6511a" />
 
 Scanning page
 
@@ -25,7 +25,7 @@ detecting page
 
 Result page
 
-<img width="246" height="490" alt="image" src="https://github.com/user-attachments/assets/22d7cb4f-0c92-4332-8bca-92668b0dc1ee" />
+<img width="239" height="491" alt="image" src="https://github.com/user-attachments/assets/1a4f544e-9b4d-42f3-abde-1f04adddda2b" />
 
 
 # Project Vision:
