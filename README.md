@@ -5,28 +5,27 @@ CalorieTrack: AI-Powered Calorie Tracking App
 # Demo 
 Login page
 
-<img width="244" height="489" alt="image" src="https://github.com/user-attachments/assets/08de3409-1135-4f6e-b8fc-d31f165f99e0" />
+<img width="153" height="307" alt="image" src="https://github.com/user-attachments/assets/c3a5e868-b7d1-41c3-ba31-17c0e416bbb5" />
 
 Profile page
 
-<img width="240" height="485" alt="image" src="https://github.com/user-attachments/assets/8cda886c-63c0-4f30-8c54-572451304b46" />
+<img width="153" height="305" alt="image" src="https://github.com/user-attachments/assets/5cbddebd-d5e1-4da0-9456-9d2a8c5c19c4" />
 
 Camera page
 
-<img width="240" height="482" alt="image" src="https://github.com/user-attachments/assets/18d1d224-c266-451d-ba1f-1ec088f6511a" />
+<img width="153" height="307" alt="image" src="https://github.com/user-attachments/assets/363b12b6-7040-4ca3-a328-53fb019a1eed" />
 
 Scanning page
 
-<img width="242" height="494" alt="image" src="https://github.com/user-attachments/assets/7267e049-b22a-454a-9ff0-08a8a0230ad1" />
+<img width="160" height="307" alt="image" src="https://github.com/user-attachments/assets/de88652b-09fd-4f3b-821e-ad5440944cda" />
 
-detecting page
+Detecting page
 
-<img width="242" height="486" alt="image" src="https://github.com/user-attachments/assets/a1e12056-ac56-45e6-801f-063f36d0d753" />
+<img width="158" height="307" alt="image" src="https://github.com/user-attachments/assets/ed96399b-0441-4dea-a308-b6a06b35fd0f" />
 
 Result page
 
-<img width="239" height="491" alt="image" src="https://github.com/user-attachments/assets/1a4f544e-9b4d-42f3-abde-1f04adddda2b" />
-
+<img width="156" height="304" alt="image" src="https://github.com/user-attachments/assets/526ed88e-4713-4d82-b504-e689e84e55c9" />
 
 # Project Vision:
 Promoting a healthy diet has become a popular topic in our society. The sociologist and government are encouraging people from different age groups to eat well, while maintaining the good calories for the body. Therefore, I want to develop an IOS application that has the automated functionalities to predict the food images, calculate the calorie consumption, and provide excellent diet advice.
