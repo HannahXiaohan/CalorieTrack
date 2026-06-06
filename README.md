@@ -32,6 +32,10 @@ Promoting a healthy diet has become a popular topic in our society. The sociolog
 
 CalorieTrack is an AI-powered mobile application designed to simplify calorie tracking and help users achieve their health goals. The app provides a personalized experience by calculating daily calorie allowances based on user inputs and leveraging advanced AI for meal recognition via image capture.
 
+# AI Model Architecture
+<img width="1050" height="410" alt="image" src="https://github.com/user-attachments/assets/cbacf69a-86b7-4983-8e54-b46635e69aed" />
+
+
 # Tools and Technologies:
 ● Frontend: Swift UI
 
